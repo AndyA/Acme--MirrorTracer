@@ -1,8 +1,8 @@
 Build.PL
 Changes
-MANIFEST
-README
 lib/Acme/MirrorTracer.pm
+MANIFEST
+MANIFEST.SKIP
+README
 t/00.load.t
-t/pod-coverage.t
 t/pod.t

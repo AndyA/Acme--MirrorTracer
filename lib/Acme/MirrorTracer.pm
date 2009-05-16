@@ -5,42 +5,28 @@ use strict;
 
 =head1 NAME
 
-Acme::MirrorTracer - [One line description of module's purpose here]
+Acme::MirrorTracer - Do nothing.
 
 =head1 VERSION
 
-This document describes Acme::MirrorTracer version 0.01
+This document describes Acme::MirrorTracer version 2009.0516141813
 
 =cut
 
-our $VERSION = '0.01';
+our $VERSION = '2009.0516141813';
 
-=head1 SYNOPSIS
-
-    use Acme::MirrorTracer;
-  
 =head1 DESCRIPTION
 
-=head1 INTERFACE 
-
-=head2 C<< somfunc >>
+How quickly does this get propagated by CPAN mirrors?
 
 =cut
 
 1;
 __END__
 
-=head1 CONFIGURATION AND ENVIRONMENT
-  
-Acme::MirrorTracer requires no configuration files or environment variables.
-
 =head1 DEPENDENCIES
 
 None.
-
-=head1 INCOMPATIBILITIES
-
-None reported.
 
 =head1 BUGS AND LIMITATIONS
 
