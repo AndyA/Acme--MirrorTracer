@@ -9,11 +9,11 @@ Acme::MirrorTracer - Do nothing.
 
 =head1 VERSION
 
-This document describes Acme::MirrorTracer version 2009.051623835
+This document describes Acme::MirrorTracer version 2009.051713524004
 
 =cut
 
-our $VERSION = '2009.051623835';
+our $VERSION = '2009.051713524004';
 
 =head1 DESCRIPTION
 
